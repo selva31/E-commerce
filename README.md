@@ -49,8 +49,14 @@ This project implements a basic e-commerce application using Flask and SQLAlchem
 
 1. **Create a virtual environment:**
    ```bash
+   # For Linux
    python3 -m venv venv
-   source venv/bin/activate  # On Windows: venv\Scripts\activate
+   source venv/bin/activate
+   ```
+   ```cmd
+   :: For Windows
+   python3 -m venv venv
+   venv\Scripts\activate
    ```
 
 2. **Install dependencies:**
