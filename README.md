@@ -2,7 +2,8 @@
 
 ![MIT License](https://img.shields.io/badge/License-MIT-blue.svg)
 
-It is a modern e-commerce platform built with Flask and SQLAlchemy, designed for a seamless shopping experience in the furniture industry. Customers can browse furniture, add items to their cart or wishlist, and place orders, while admins can manage products and orders efficiently.
+This project implements a basic e-commerce application using Flask and SQLAlchemy. It includes features for user registration, login, product browsing, adding items to a cart and wishlist, checkout, order placement, and admin functionalities.
+
 ## Features
 
 ### User Features:
@@ -125,4 +126,4 @@ Contributions are welcome! Please open an issue or submit a pull request.
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details. 
